@@ -1,0 +1,188 @@
+✅ 1. Java Streams (Functional Programming - Java 8+)
+Find the longest string in a list of strings
+
+Calculate the average age of a list of Person objects
+
+Check if a list of integers contains a prime number
+
+Merge two sorted lists into a single sorted list
+
+Find the intersection of two lists
+
+Remove duplicates from a list while preserving order
+
+Sum transaction amounts per day
+
+Find the Kth smallest element in a list
+
+Word frequency from a list of strings
+
+Partition list into two groups using a predicate
+
+Add two integers using a lambda
+
+Filter and print even numbers
+
+Map integers to squares
+
+Find max value from a list
+
+Count number of elements
+
+Reduce list of integers to sum
+
+Print string lengths
+
+Print distinct elements from a list
+
+Sort and print names
+
+Use Optional to check presence
+
+Group strings by length
+
+Limit and skip elements
+
+Find the first element in sorted order
+
+Create custom functional interface for addition
+
+Use flatMap to print characters from lists of strings
+
+Use peek to debug stream processing
+
+Use CompletableFuture for async execution
+
+Reduce to calculate product of integers
+
+Check if any number is even in a list
+
+🔢 2. Arrays
+Find the largest/smallest element--
+
+Remove duplicates from an array--
+
+Find missing number in range 1 to N--
+
+Reverse an array--
+
+Rotate array by K positions--
+
+Find duplicate elements--
+
+Sort array using Java 8--
+
+Check if array is a palindrome--
+
+Merge two sorted arrays--
+
+Count frequency of elements--
+ 
+Move all zeros to the end--
+
+Find all pairs with sum K--
+
+Segregate even and odd numbers--
+
+Rearrange array in max-min form--
+
+🔁 3. Collections (List, Set, Map)
+Sort a list of custom objects (like Person by age)--
+
+Convert List to Set and Set to List--
+
+Find frequency of each element in a list using Map--
+
+Iterate over a Map using streams--
+
+Find common elements in two Lists/Sets--
+
+Remove duplicates from ArrayList--
+
+Sort HashMap by keys or values--
+
+Use TreeMap to maintain natural order--
+
+Create an unmodifiable list or map
+
+🔤 4. Strings
+Reverse a string
+
+Check if a string is palindrome
+
+Count vowels and consonants
+
+Remove duplicate characters
+
+Find the first non-repeating character
+
+Check for anagram strings
+
+Convert string to title case
+
+Count words in a string
+
+Find duplicate words
+
+Longest substring without repeating characters
+
+Character frequency using HashMap
+
+Check if a string contains only digits
+
+Replace vowels with special character
+
+Split string by whitespace and punctuation
+
+🧮 5. Math / Numbers
+Check if number is prime
+
+Find factorial using recursion and streams
+
+Generate Fibonacci series
+
+Check Armstrong number
+
+Find GCD & LCM
+
+Count digits in a number
+
+Reverse a number
+
+Sum of digits
+
+Convert decimal to binary
+
+Check if number is a palindrome
+
+🧪 6. Vowels & Character Operations
+Count vowels and consonants in a string--
+
+Replace vowels with *--
+
+Find the most frequent vowel--
+
+Remove vowels from a string--
+
+Check if all vowels are present--
+
+Convert vowels to uppercase--
+
+
+
+
+
+
+| Concept                                                                      | Why It's Important                                                                                |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 🔹 **Sorting custom objects in `List`** using `Comparator`                   | Needed for sorting by name, age, price, etc. (You mentioned "in document", but not shown in code) |
+| 🔹 **Map merge logic using `merge()` or `computeIfAbsent()`**                | Real-time use when updating map values dynamically                                                |
+| 🔹 **`Queue` & `Deque` usage (`LinkedList`, `ArrayDeque`)**                  | For BFS, LRU, or stack-like structures                                                            |
+| 🔹 **`PriorityQueue` (Min/Max Heap)**                                        | Important for scheduling, heaps, and real-time problems like Top K elements                       |
+| 🔹 **`Stack` and `Deque` as Stack**                                          | Needed for expression evaluation, backtracking problems                                           |
+| 🔹 **Iterating and modifying `Map` safely** (`ConcurrentHashMap`, fail-safe) | Interview + multi-threading scenario                                                              |
+| 🔹 **`Collections.synchronizedList()` and `CopyOnWriteArrayList`**           | Concurrency in real-world applications                                                            |
+| 🔹 **Immutable collections (Java 9 `List.of()`, `Map.of()` limitations)**    | Advanced understanding, especially for microservices or immutability by design                    |
+| 🔹 **Streams on nested collections (e.g. `List<List<Integer>>`)**            | Useful in matrix processing and grouping operations                                               |
+
+
